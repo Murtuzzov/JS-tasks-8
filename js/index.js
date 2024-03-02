@@ -175,3 +175,24 @@
 //} else {
 //  console.log("Массив содержит положительное значение");
 //}
+/////////////////////////////////////////////////////////////////////////////////////
+//ЗАДАЧА No15 | преобразовать массив 
+//в объект, где индексы массива станут
+//ключами объекта 
+//const fruits = ["banana", "kiwi", "apple", "orange", "lemon"]
+//const fruitsObj = {}
+//for(let i = 0; i<fruits.length; i+=1){
+//fruitsObj[[i]] = fruits[i];
+//}
+//console.log(fruitsObj)
+/////////////////////////////////////////////////////////////////////////////////////
+//ЗАДАЧА No17 | удалить все элементы массива 
+//кроме тех, которые кратны 3(трём)
+//const numbersArr =[1,2,3,4,5,6,7,8,9,10]
+//let newNumArr = []
+//for(let i = 0; i < numbersArr.length; i+=1){
+//  if(numbersArr[i] % 3 === 0){
+//    newNumArr.push(numbersArr[i])
+// }
+//} 
+//  console.log(newNumArr)
